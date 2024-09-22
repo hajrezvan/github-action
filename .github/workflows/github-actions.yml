@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
@@ -72,4 +71,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
->>>>>>> ce7590db1f208808f72cfede5a904527a93d09e9
