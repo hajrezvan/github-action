@@ -34,7 +34,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
-=======
 # This is a basic workflow to help you get started with Actions
 
 name: CI
